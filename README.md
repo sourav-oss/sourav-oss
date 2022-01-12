@@ -5,7 +5,7 @@
 
 <h3>🛠 Experienced Web Developer & Designer from India 🛠 </h3>
 
-- ⚡ My expertises are HTML, CSS, Bootstrap, JavaScript, jQuery, React, React Redux, Node.js, Express.js, Tailwind CSS, PHP, Progressive Web Apps, Responsive web design and Adobe Photoshop
+- ⚡ My expertise are HTML, CSS, Bootstrap, JavaScript, jQuery, React, React Redux, Node.js, Express.js, Tailwind CSS, PHP, Progressive Web Apps, Responsive web design and Adobe Photoshop
  <!--- comment --->
 - 🌱 I’m currently learning Information Security.
  <!--- comment --->
