@@ -9,8 +9,6 @@
  <!--- comment --->
 - 🌱 I’m currently learning Information Security.
  <!--- comment --->
-- 💬 Ask me about Problems and errors.
- <!--- comment --->
 - 📫 How to reach me: <strong><a href="mailto:sodutta1234@gmail.com">sodutta1234@gmail.com</a></strong>
 <!--- ⚡ Skills and tolls:  HTML, CSS, Bootstrap Sass, JavaScript, jQuery -->
 - 😄 Fun fact: I love Sweets not Chili's.
