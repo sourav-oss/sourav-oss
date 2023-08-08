@@ -4,12 +4,16 @@
 **sourav-oss/sourav-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h3>🛠 Experienced Web Developer & Designer from India 🛠 </h3>
-Passionate software engineer with 4+ years of hands-on skills and experiences in a wide range of software, tools and programming languages building and maintaining scalable and responsive applications in insurance, banking, finance, real estate, ecommerce platform and other software applications. Worked on React.js and Node.js to support various banking and finance applications for automatic and scalable business process flow. 
+Passionate software engineer with 4+ years of hands-on skills and experiences in a wide range of software, tools and programming languages building and maintaining scalable and responsive applications in insurance, banking, finance, real estate, ecommerce platform and other software applications. Worked on React.js and Node.js to support various banking and finance applications for automatic and scalable business process flow. <br>
 With excellent problem-solving and decision-making skills I am a good human being who loves learning new things and has a talent for cooking. Introverted but always eager to learn and grow.
-<br><br>
+<br>
  <!--- comment --->
+ <br><br>
+ 
 - 🌱 My Portfolio on www : https://sourav-oss.github.io/.
  <!--- comment --->
+ <br><br>
+ 
 - 📫 How to reach me: <strong><a href="mailto:sodutta1234@gmail.com">sodutta1234@gmail.com</a></strong>
 <!--- ⚡ Skills and tolls:  HTML, CSS, Bootstrap Sass, JavaScript, jQuery -->
 <br><br>
