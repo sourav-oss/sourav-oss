@@ -12,11 +12,11 @@ With excellent problem-solving and decision-making skills I am a good human bein
  
 - 🌱 My Portfolio on www : https://sourav-oss.github.io/.
  <!--- comment --->
- <br><br>
+ <br>
  
 - 📫 How to reach me: <strong><a href="mailto:sodutta1234@gmail.com">sodutta1234@gmail.com</a></strong>
 <!--- ⚡ Skills and tolls:  HTML, CSS, Bootstrap Sass, JavaScript, jQuery -->
-<br><br>
+<br>
 
 - 😄 Fun fact: I love Sweets not Chili's.
 
